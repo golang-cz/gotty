@@ -12,8 +12,5 @@ require (
 	github.com/kr/pty v0.0.0-20150511174710-5cf931ef8f76
 	github.com/pkg/errors v0.8.1-0.20161029093637-248dadf4e906
 	github.com/stretchr/testify v1.7.0 // indirect
-	github.com/yudai/gotty v0.0.0-00010101000000-000000000000
 	github.com/yudai/hcl v0.0.0-20151013225006-5fa2393b3552
 )
-
-replace github.com/yudai/gotty => ./
